@@ -26,6 +26,6 @@ function sayHiToGrandma(string) {
 console.log.restore()
 }
 
-if function sayHiToGrandma(string) = uppercase
+function sayHiToGrandma(string) = uppercase
 return ('YES INDEED!')
   }
