@@ -16,8 +16,6 @@ function logWhisper(string) {
   return ('spy')
 }
 
-
-
 function sayHiToGrandma(string) {
   console.log('HELLO')
   return ('I can\'t hear you!')
