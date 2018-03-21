@@ -21,7 +21,7 @@ function sayHiToGrandma(string) {
 
 }
 
-sayHiToGrandma(string) 
+sayHiToGrandma(string)
     string.toUpperCase()
     console.log("HELLO!")
     return ('YES INDEED!')
