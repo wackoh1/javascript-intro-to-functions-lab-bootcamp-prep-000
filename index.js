@@ -20,12 +20,17 @@ function logWhisper(string) {
   console.log.restore()
 }
 
-function sayHiToGrandma(string) {
-  if (string.toLowerCase('hello'))
-  return "I can\'t hear you!";
+
+function sayHiToGrandma('hello')) {
+return "I can\'t hear you!";
+  
+}
+
 
 function sayHiToGrandma(string) {
     console.log(`'hello' ${toUpperCase}!`)
   return "YES INDEED!"
   }
+
+  
 }
