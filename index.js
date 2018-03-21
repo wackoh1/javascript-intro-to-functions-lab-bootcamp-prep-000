@@ -26,3 +26,7 @@ function sayHiToGrandma(string) {
 
 console.log.restore()
 }
+
+var lowercase = 'hello!'
+
+lowercase.toLowerCase('hello') === lowercase
