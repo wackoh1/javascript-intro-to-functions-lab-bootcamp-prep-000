@@ -26,7 +26,6 @@ function sayHiToGrandma(string) {
 console.log.restore()
 }
 
-function logShout(string){
-  console.log('HELLO')
-         sayHiToGrandma('YES INDEED')
+if sayHiToGrandma(string) = uppercase
+return ('YES INDEED!')
   }
