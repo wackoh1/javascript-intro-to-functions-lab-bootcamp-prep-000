@@ -13,7 +13,7 @@ function logShout(string) {
 
 function logWhisper(string) {
   console.log('hello')
-  return `$(spy)`
+  return ('spy')
 }
 
 function sayHiToGrandma(string) {
