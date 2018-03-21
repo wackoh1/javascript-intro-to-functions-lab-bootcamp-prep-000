@@ -24,4 +24,5 @@ function sayHiToGrandma(string) {
   console.log('HELLO')
   return ('YES INDEED!')
 
+console.log.restore()
 }
