@@ -20,3 +20,9 @@ function sayHiToGrandma(string) {
   return('I can\'t hear you!')
 
 }
+
+function sayHiToGrandma(string) {
+  console.log('spy')
+  return ('YES INDEED!')
+
+}
