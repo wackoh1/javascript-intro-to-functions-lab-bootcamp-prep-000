@@ -19,3 +19,12 @@ function logWhisper(string) {
 function sayHiToGrandma(string) {
 
 }
+
+function sayHiToGrandma(string) {
+    string.toUpperCase()
+    console.log("HELLO!")
+    return ('YES INDEED!')
+  }
+
+
+
