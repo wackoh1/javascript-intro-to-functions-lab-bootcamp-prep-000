@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log("HELLO!")
+  console.log('HELLO!')
   return ('spy')
 }
 
@@ -23,6 +23,6 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  console.log("HELLO!");
+  console.log('HELLO!');
   return ('YES INDEED!')
 }
