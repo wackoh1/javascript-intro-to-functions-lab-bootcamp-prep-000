@@ -26,6 +26,6 @@ function sayHiToGrandma(string) {
 console.log.restore()
 }
 
-function logWhisper(string){}
+function logWhisper(string){
          sayHiToGrandma('YES INDEED')
   }
