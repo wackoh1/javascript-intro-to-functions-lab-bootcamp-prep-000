@@ -28,5 +28,5 @@ console.log.restore()
 
 function sayHiToGrandma(string) {
   'HELLO'.toUpperCase()
-  return ('YES INDEED')
+  return ('YES INDEED!')
 }
