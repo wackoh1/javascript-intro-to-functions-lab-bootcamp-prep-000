@@ -20,9 +20,9 @@ function logWhisper(string) {
   console.log.restore()
 }
 
-
-function sayHiToGrandma('hello')) {
-return "I can\'t hear you!";
+function sayHiToGrandma(string) {
+  if (string.toLowerCase('hello'))
+  return "I can\'t hear you!";
 
 }
 
@@ -32,5 +32,5 @@ function sayHiToGrandma(string) {
   return "YES INDEED!"
   }
 
-
+  
 }
