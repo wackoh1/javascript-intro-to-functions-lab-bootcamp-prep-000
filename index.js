@@ -22,7 +22,7 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   'hello'.toLowerCase()
-  return ('I can\'t hear you!')
+  return ("I can\'t hear you!")
 
 console.log.restore()
 }
