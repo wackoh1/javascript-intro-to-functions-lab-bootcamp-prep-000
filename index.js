@@ -7,17 +7,18 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log('HELLO')
+  console.log("HELLO!")
   return ('spy')
 }
 
 function logWhisper(string) {
-  console.log('hello')
+  console.log('hello!')
   return ('spy')
 }
 
 function sayHiToGrandma(string) {
-    return('I can\'t hear you!')
+  console.log('hello!');
+  return('I can\'t hear you!')
 
 }
 
