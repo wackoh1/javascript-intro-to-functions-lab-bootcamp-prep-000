@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  console.log`$('spy')`
+  console.log('HELLO')
   return ('YES INDEED!')
 
 }
