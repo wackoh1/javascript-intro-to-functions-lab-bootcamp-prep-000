@@ -26,3 +26,6 @@ function sayHiToGrandma(string) {
 console.log.restore()
 }
 
+{sayHiToGrandma('hello')
+
+}
