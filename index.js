@@ -29,4 +29,4 @@ console.log.restore()
 
 var lowercase = 'hello!'
 
-lowercase.toLowerCase() === lowercase
+string.toLowerCase() === lowercase
