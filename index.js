@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log('HELLO')
+  console.log(string.toUpperCase)
   return ('spy')
 
   console.log.restore()
@@ -21,5 +21,12 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
+  if 
+
+
+
+
   return ('I can\'t hear you!')
+
+  
 }
