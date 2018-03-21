@@ -20,3 +20,7 @@ function sayHiToGrandma(string) {
     return ('I can\'t hear you!')
 
 }
+
+if sayHiToGrandma(string) = .upperCase {
+  return ('YES INDEED!')
+}
