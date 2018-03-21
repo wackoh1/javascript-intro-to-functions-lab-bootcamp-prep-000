@@ -24,8 +24,3 @@ function sayHiToGrandma(string) {
   if (string.toLowerCase('hello!'))
   return ('I can\'t hear you!')
 }
-
-function sayHiToGrandma(string) {
-  if (string === .UpperCase('HELLO'))
-  return ('YES INDEED!')
-}
